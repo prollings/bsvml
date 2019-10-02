@@ -5,7 +5,7 @@ It offers fine-grained control over:
 * Frame capture
 * Streaming (continuous) capture
 * Analogue waveform generation
-** Both synthesised and user-defined waveforms
+  * Both synthesised and user-defined waveforms
 
 Go to the release page to find binaries and documentation for the latest version of BSVML.
 
